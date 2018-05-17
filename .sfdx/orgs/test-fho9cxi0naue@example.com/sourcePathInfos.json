@@ -1,0 +1,478 @@
+[
+    [
+        "C:\\PlumbCloudRepo\\force-app",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "123aeded3bdeee65ee597d082d202f4866ac4998",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526536218099,
+            "changeTime": 1526536218099,
+            "contentHash": "e662b9f68e8ce6208ff062217a9799cdfcbeb4ed"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\layouts\\TestObject__c-TestObject Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\layouts\\TestObject__c-TestObject Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2095,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "0267dbb098cc494e96090e8ac6f5f43be6fc525e",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526536218057,
+            "changeTime": 1526536218057,
+            "contentHash": "00cff5afa487c4e5f7986fd05d62a6ab39cb9346"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\objects\\TestObject__c",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\objects\\TestObject__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "e2e265c58054dabee16068e3cd768a505548bb23",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\objects\\TestObject__c\\TestObject__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\objects\\TestObject__c\\TestObject__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2186,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "f59db71180f34c59d8e3c0cbc41916c7671aba07",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526536218050,
+            "changeTime": 1526536218050,
+            "contentHash": "d80263598fd86b768364fa7016a4486021343b04"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\plumbcloud.page",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\plumbcloud.page",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "c901a85eb7bcbfebac4ec34ec3660bace28a3c98",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\plumbcloud.page-meta.xml",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\plumbcloud.page-meta.xml",
+            "isDirectory": false,
+            "size": 293,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "4a9b74d9cfda69f3620010162906ba02683bd131",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\SFDC.page",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\SFDC.page",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "c901a85eb7bcbfebac4ec34ec3660bace28a3c98",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\SFDC.page-meta.xml",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\SFDC.page-meta.xml",
+            "isDirectory": false,
+            "size": 287,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "90ff51e8cbd494b202fdb2d7681aaf8efd4c4b0f",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\SFDX.page",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\SFDX.page",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "c901a85eb7bcbfebac4ec34ec3660bace28a3c98",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\SFDX.page-meta.xml",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\SFDX.page-meta.xml",
+            "isDirectory": false,
+            "size": 287,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "44ec1d8c0f961b2d03895fb4e9d9f0c8ac9f5d29",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\test.page",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\test.page",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "c901a85eb7bcbfebac4ec34ec3660bace28a3c98",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\test.page-meta.xml",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\test.page-meta.xml",
+            "isDirectory": false,
+            "size": 287,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "56634dd9a96fd0f1c12b95489d51fe901d1a6b92",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\test1.page",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\test1.page",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "c901a85eb7bcbfebac4ec34ec3660bace28a3c98",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\test1.page-meta.xml",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\test1.page-meta.xml",
+            "isDirectory": false,
+            "size": 288,
+            "modifiedTime": 1526535445787,
+            "changeTime": 1526535445787,
+            "contentHash": "18c1ea8841bf0f6b3ffd290899daa03795c5acde",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526536218136,
+            "changeTime": 1526536218136,
+            "contentHash": "28a941c36edc4d0e24ad208bddbadc4530145796"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17743,
+            "modifiedTime": 1526536218133,
+            "changeTime": 1526536218133,
+            "contentHash": "44163c488cf97fce34163d5e9fd3fe32e9dcdfab"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo",
+        {
+            "sourcePath": "C:\\PlumbCloudRepo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1526535445803,
+            "changeTime": 1526535445803,
+            "contentHash": "75e1770f77ca0b53144b62dbf98fa657d6ce5f75",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\harneet.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\harneet.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 283,
+            "modifiedTime": 1526536218049,
+            "changeTime": 1526536218049,
+            "contentHash": "cf577280b36884c9ad76995cade834a71defb24f"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\harneet.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\pages\\harneet.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 172,
+            "modifiedTime": 1526536218050,
+            "changeTime": 1526536218050,
+            "contentHash": "95fc980a03b416c6506dfb6d1b5b88cfc3d3aa31"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\objects\\Account\\fields\\Harneet__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\objects\\Account\\fields\\Harneet__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1526536218064,
+            "changeTime": 1526536218064,
+            "contentHash": "03e2a3f897b7b7ec0ec5112401f3cb06a26a0db1"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9755,
+            "modifiedTime": 1526536218069,
+            "changeTime": 1526536218069,
+            "contentHash": "809eaae784271a6bb151a92b75b8810130b0ead7"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9707,
+            "modifiedTime": 1526536218074,
+            "changeTime": 1526536218074,
+            "contentHash": "cd7c4fd85f0108e43595007651fe99546eda0d01"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9707,
+            "modifiedTime": 1526536218096,
+            "changeTime": 1526536218096,
+            "contentHash": "c9d8ba038e73d4a33b7952aa24b93f90efa27d42"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9755,
+            "modifiedTime": 1526536218100,
+            "changeTime": 1526536218100,
+            "contentHash": "40286f458f3a6d4402720447e689e3fb6a347bd1"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\profiles\\Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4700,
+            "modifiedTime": 1526536218142,
+            "changeTime": 1526536218142,
+            "contentHash": "7b3fd8b006e604fc8716c481495eae2b5886675e"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\profiles\\Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4704,
+            "modifiedTime": 1526536218142,
+            "changeTime": 1526536218142,
+            "contentHash": "651066a507cad3d5acad529cbc929ee7f3658017"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\profiles\\Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5040,
+            "modifiedTime": 1526536218142,
+            "changeTime": 1526536218142,
+            "contentHash": "c66644463e142b089b267dfb6789c4e1c968a17f"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526536218063,
+            "changeTime": 1526536218063,
+            "contentHash": "3923a7287369ecca4bd486f0cdaf71aad6e7fa6e"
+        }
+    ],
+    [
+        "C:\\PlumbCloudRepo\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\PlumbCloudRepo\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526536218057,
+            "changeTime": 1526536218057,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ]
+]
